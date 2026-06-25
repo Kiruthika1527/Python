@@ -10,17 +10,17 @@ This project analyzes a Food data Analysis using Python, Pandas, NumPy, and Open
 - OpenPyXL
 
 ## Features
-- Creates a structured Food data Analysis dataset
-- Displays statistical summary using describe()
+ Creates a structured Food data Analysis dataset
+ Displays statistical summary using describe()
 - Filters items by category
 - Calculates category-wise totals
 - Computes overall totals for:
   - Price
   - Protein
   - Calories
-- Generates category summary using groupby()
-- Creates indicator columns using NumPy
-- Exports cleaned data to Excel
+ Generates category summary using groupby()
+ Creates indicator columns using NumPy
+ Exports cleaned data to Excel
 
 ## Categories Included
 - Fried Chicken
