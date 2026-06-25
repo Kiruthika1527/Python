@@ -48,9 +48,9 @@ This project analyzes a Food data Analysis using Python, Pandas, NumPy, and Open
   - Sodium (mg)
 
 ### Analysis Performed
- Statistical Summary using `describe()`
+- Statistical Summary using `describe()`
 
- Category-wise Filtering:
+- Category-wise Filtering:
 - Fried Chicken
 - Burgers
 - Rice & Rolls
@@ -59,17 +59,17 @@ This project analyzes a Food data Analysis using Python, Pandas, NumPy, and Open
 - Desserts
 - Snacks/Popcorn
 
- Category-wise Nutritional Summaries
+- Category-wise Nutritional Summaries
 
- Total Price Calculation
+- Total Price Calculation
 
- Total Protein Calculation
+- Total Protein Calculation
 
- Total Calories Calculation
+- Total Calories Calculation
 
- Grouped Category Analysis using `groupby()`
+- Grouped Category Analysis using `groupby()`
 
- New Classification Columns Created:
+- New Classification Columns Created:
 - Is_Fried
 - Is_Burger
 - Is_rice
