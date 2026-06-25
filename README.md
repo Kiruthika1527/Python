@@ -77,7 +77,7 @@ This project analyzes a Food data Analysis using Python, Pandas, NumPy, and Open
 - Is_beverage
 - Is_deserts
 - Is_snacks
-- 
+  
 ## Author
 Kiruthika Ravichandran
 BE Computer Science and Engineering
